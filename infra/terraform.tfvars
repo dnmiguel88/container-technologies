@@ -1,0 +1,9 @@
+cluster_name = "app-prod"
+
+vpc_id = "vpc-034d336f1305806e0"
+
+subnets_id = [
+  "subnet-07d78078adab257bc",
+  "subnet-068eb44bf619bb26d",
+  "subnet-0d8368fc3ec6945bc"
+]
